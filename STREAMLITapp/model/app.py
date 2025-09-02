@@ -1,7 +1,7 @@
 import streamlit as st
 from helper import predict
 
-st.title('Detection')
+st.title('Vehicle_Detection')
 
 uploaded = st.file_uploader('Upload image', type=['jpg','png'])
 
