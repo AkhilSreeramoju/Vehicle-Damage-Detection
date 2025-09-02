@@ -1,8 +1,5 @@
-# PyTorch CPU-only wheels for Linux (Streamlit Cloud)
--f https://download.pytorch.org/whl/cpu/torch_stable.html
-
 streamlit==1.49.0
-torch==2.5.1+cpu
-torchvision==0.16.1+cpu
-torchaudio==2.5.1+cpu
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
 pillow==11.3.0
